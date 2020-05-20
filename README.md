@@ -1,2 +1,2 @@
 # github-search-react
-GitHub Search App made in React using the GitHub API
+GitHub Search App made in React using the GitHub API (Under work)
